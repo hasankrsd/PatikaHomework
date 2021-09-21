@@ -1,0 +1,2 @@
+# PatikaHomework
+patika Ödevleri
